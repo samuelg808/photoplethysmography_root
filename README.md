@@ -1,6 +1,6 @@
 # Photoplethysmography
 
-2Ba Industrial Science Vrije Universiteit Brussel, Engineering Programming task
+2Ba Industrial Sciences Vrije Universiteit Brussel, Engineering Programming task
 ## Table of Contents
 
 
@@ -35,6 +35,8 @@ You can install these libraries using pip, Python's package manager. Open your t
 ```bash
 pip install matplotlib numpy pandas
 ```
+
+## Usage
 
 Calculate the average BPM over the entire video:
 
