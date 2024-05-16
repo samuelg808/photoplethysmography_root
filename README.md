@@ -9,6 +9,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Documentation](#documentation)
+- [ToDo](#todo)
 
 ## Introduction
 
@@ -56,3 +57,7 @@ To calculate the BPM over 5 windows
 ## Documentation
 
 For a more detailed analysis of the project, including its background, methodology and results, please refer to my [report](link-to-report). (work in progress)
+
+## ToDo
+
+- Add GUI compatibility for different screen resolutions
