@@ -1,6 +1,6 @@
 # Photoplethysmography
 
-2Ba Industrial Science Vrije Universiteit Brussel, Engineering Programming task
+2Ba Industrial Sciences Vrije Universiteit Brussel, Engineering Programming task
 ## Table of Contents
 
 
@@ -9,6 +9,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Documentation](#documentation)
+- [ToDo](#todo)
 
 ## Introduction
 
@@ -36,6 +37,8 @@ You can install these libraries using pip, Python's package manager. Open your t
 pip install matplotlib numpy pandas
 ```
 
+## Usage
+
 Calculate the average BPM over the entire video:
 
 1. Enter the full path of the .mp4 file in the GUI
@@ -54,3 +57,7 @@ To calculate the BPM over 5 windows
 ## Documentation
 
 For a more detailed analysis of the project, including its background, methodology and results, please refer to my [report](link-to-report). (work in progress)
+
+## ToDo
+
+- Add GUI compatibility for different screen resolutions
