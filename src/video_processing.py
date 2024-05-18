@@ -45,7 +45,6 @@ class VideoProcessor():
 
         x_values = np.arange(len(peaks)) / self.fps 
         fig = Plot.plot(xvals = x_values, signal = peaks, 
-                             xticks = np.arange(0, 4.0, 0.2),
                              xlabel = "Time [s]", ylabel = "Mean Pixel Intensity",
                              filename = "onlyRed", save = True)
 

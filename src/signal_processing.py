@@ -58,7 +58,7 @@ class SignalProcessor():
 
         fig = Plot.plot(xvals = x_values, signal = filtered_signal, 
                              xlabel = 'Time [s]', ylabel = 'Value',
-                             filename = name + "_filtered", save = False)
+                             filename = name + "_filtered", save = True)
         
         return np.array(filtered_signal), fig
 
