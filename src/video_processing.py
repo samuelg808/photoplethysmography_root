@@ -1,8 +1,6 @@
 import cv2 as cv
 import numpy as np
-import matplotlib.pyplot as plt
 from plotter import Plot
-from preprocessing import PreProcesser
 
 class VideoProcessor():
     def __init__(self, filepath):
