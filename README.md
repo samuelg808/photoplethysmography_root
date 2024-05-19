@@ -19,7 +19,7 @@ This project was made for the Engineering Programming course at the Vrije Univer
 
 - Calculate the average BPM of the whole video: A single window can be used to calculate the average BPM of the entire video (30fps or 60fps).
 - Calculate BPM over 5 windows: Using five windows, the BPM can be calculated and plotted over time. It is recommended to use a video of +30 seconds to ensure enough data is collected per window.
-- Determine percentile ranking: Percentile ranking can be determined from a data set (not in GUI).
+- Determine percentile ranking based on this [dataset](/data/dataset-72971.csv): Percentile ranking can be determined from a data set (not in GUI).
 
 ## Installation
 
