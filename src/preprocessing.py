@@ -1,5 +1,3 @@
-import numpy as np
-
 class PreProcesser():
     @staticmethod
     def crop(lst, fps):
