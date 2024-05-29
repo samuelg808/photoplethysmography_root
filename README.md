@@ -56,7 +56,7 @@ To calculate the BPM over 5 windows
 
 ## Documentation
 
-For a more detailed analysis of the project, including its background, methodology and results, please refer to my [report](reportEP.pdf). (work in progress)
+For a more detailed analysis of the project, including its background, methodology and results, please refer to my [report](reportEP.pdf). 
 
 ## ToDo
 
